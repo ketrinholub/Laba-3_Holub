@@ -1,0 +1,36 @@
+
+.button_number{
+
+    -fx-background-color: rgba(115, 113, 113, 0.47);
+    -fx-text-fill: #060606;
+
+}
+
+.button_operator{
+
+    -fx-background-color: #767474;
+    -fx-text-fill: #000000;
+}
+
+.button_equal{
+
+    -fx-background-color: #f45302;
+    -fx-text-fill: #020407;
+}
+
+.button_number:hover , .button_operator:hover{
+    -fx-background-color: #fbf6fd;
+}
+
+.button_equal:hover{
+    -fx-background-color: #ff6100;
+}
+
+.display{
+    -fx-background-color: rgba(249, 249, 249, 0.65);
+    -fx-text-fill: #040404;
+}
+
+.root{
+    -fx-background-color: #fcfcfc;
+}
